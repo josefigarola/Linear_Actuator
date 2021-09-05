@@ -21,3 +21,6 @@ The project has an ultrasonic sensor in order to make precise data and ranges.
 3. L298N H Bridge.
 4. HC-SR04 Ultrasonic Sensor.
 5. Arduino UNO.
+
+# Dvelopment Team
+José Miguel Figarola Prado, Giancarlo Franco Carrillo
