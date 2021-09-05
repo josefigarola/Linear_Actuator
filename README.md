@@ -5,7 +5,7 @@ This project is still devolping...
 Lineal system to determine position given by a signal and controlled by a PID.
 
 # Objective
-This project is given by a John Deere´s challenge in order to implement a PID controller 
+This project is given by a Tecnologico de Monterrey and John Deere´s challenge in order to implement a PID controller 
 on a linear system.
 
 # Development of the system
